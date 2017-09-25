@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CXCourses</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="generic_error">generic_error</string>
+    <string name="generic_server_down">generic_server_down:服务器请求超时</string>
+
+    <string name="title_section1">创新课程</string>
+    <string name="title_section2">案例</string>
+    <string name="title_section3">创新工具</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+
+    <string name="user_info">用户信息</string>
+    <string name="searching">搜索</string>
+    <string name="user_avatar">用户头像</string>
+    <string name="title_activity_course">课程内容</string>
+
+    <string name="title_activity_content_viewer">内容详情</string>
+    <string name="title_activity_matrix">矛盾矩阵</string>
+    <string name="about">关于</string>
+    <string name="login">登录</string>
+    <string name="logout">登出</string>
+    <string name="title_activity_main_slection">MainSlectionActivity</string>
+</resources>

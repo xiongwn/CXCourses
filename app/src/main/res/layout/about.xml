@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_gravity="center">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="软件名称：创新课程视频点播系统"
+    android:textSize="20dp"
+
+    android:paddingTop="100dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="委托方：北京科学学中心"
+android:paddingLeft="0dp"
+
+        android:paddingTop="40dp"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:text="制作方：北京邮电大学教育技术研究所"
+        android:paddingTop="40dp"
+
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="制作人：熊维祥、周标"
+        android:textSize="20dp"
+        android:paddingTop="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="版权所有：2016"
+        android:paddingTop="40dp"/>
+</LinearLayout>

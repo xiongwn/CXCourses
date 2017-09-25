@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="optimizCategory">
+        <item>类别一</item>
+         
+    </string-array> 
+    <string-array name="degradedCategory">
+        <item>类别一</item>
+        <item>类别二</item>
+        <item>类别三</item>
+        <item>类别四</item>
+        <item>类别五</item>
+        <item>类别六</item>
+        <item>类别七</item>
+        <item>类别八</item>
+    </string-array> 
+    <string-array name="optimizCategory0">
+        <item>运动物体的质量</item>
+         </string-array> 
+      
+    <string-array name="category0">
+        <item>运动物体的质量</item>
+        <item>静止物体的质量</item>
+        <item>运动物体的尺寸</item>
+        <item>静止物体的尺寸</item>
+        <item>运动物体的面积</item>
+        <item>静止物体的面积</item>
+    </string-array> 
+      <string-array name="category1">
+        <item>运动物体的体积</item>
+        <item>静止物体的体积</item>
+        <item>形状</item>
+        <item>物质的数量</item>
+        <item>信息的数量</item>
+        <item>运动物体的耐久性</item>
+    </string-array> 
+     <string-array name="category2">
+        <item>静止物体的耐久性</item>
+        <item>速度</item>
+        <item>力</item>
+        <item>运动物体消耗能量</item>
+        <item>静止物体消耗能量</item>
+        <item>功率</item>
+    </string-array> 
+     <string-array name="category3">
+        <item>应力/压强</item>
+        <item>强度</item>
+        <item>结构的稳定性</item>
+        <item>温度</item>
+        <item>物体明亮度</item>
+        <item>运行效率</item>
+    </string-array> 
+     <string-array name="category4">
+        <item>物质的损失</item>
+        <item>时间的损失</item>
+        <item>能量的损失</item>
+        <item>信息的遗漏</item>
+        <item>噪声</item>
+        <item>有害的扩散</item>
+    </string-array> 
+    <string-array name="category5">
+        <item>有害副作用</item>
+        <item>适应性</item>
+        <item>兼容性</item>
+        <item>可操作性</item>
+        <item>可靠性</item>
+        <item>易维护性</item>
+    </string-array> 
+    <string-array name="category6">
+        <item>安全性</item>
+        <item>易损坏性</item>
+        <item>美观</item>
+        <item>有害作用敏感性</item>
+        <item>可制造性</item>
+        <item>制造精度</item>
+    </string-array> 
+    <string-array name="category7">
+        <item>自动化程度</item>
+        <item>生成率</item>
+        <item>装置的复杂性</item>
+        <item>控制的复杂性</item>
+        <item>测量难度</item>
+        <item>测量精度</item>
+    </string-array> 
+</resources>

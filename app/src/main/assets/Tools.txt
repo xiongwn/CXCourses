@@ -1,0 +1,1 @@
+﻿[{"courseName":"技术进化趋势","courseIntroduction":""},{"courseName":"创新原理查询","courseIntroduction":""},{"courseName":"矛盾矩阵","courseIntroduction":""},{"courseName":"科学效应库","courseIntroduction":""}]

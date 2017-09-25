@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+    <TextView
+        android:id="@+id/category"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="分类目录"
+        android:background="#00000000"
+        android:gravity="center"
+        android:paddingTop="15dp"
+android:textColor="#5a89dd"
+        android:paddingBottom="5dp"
+
+        android:textSize="20dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_below="@id/category"
+        android:layout_height="1dp"
+        android:background="#5a89dd"
+        android:paddingLeft="30dp"
+        android:id="@+id/line"
+        ></View>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/line"
+            android:background="#FFF"
+            >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TRIZ"
+            android:textColor="#5a89dd"
+android:layout_weight="2"
+android:gravity="center"
+            android:background="#205a89dd"
+            android:paddingTop="10dp"
+            android:textSize="20dp"
+            android:paddingBottom="10dp"
+android:id="@+id/course_1"
+            />
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="创新方法论"
+    android:paddingTop="10dp"
+android:layout_weight="1"
+    android:textColor="#5a89dd"
+    android:textSize="20dp"
+    android:paddingBottom="10dp"
+    android:gravity="center"
+    android:id="@+id/course_2"
+/>
+    </LinearLayout>
+    </RelativeLayout>
+    <android.support.v4.view.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/category_viewpager"/>
+</LinearLayout>

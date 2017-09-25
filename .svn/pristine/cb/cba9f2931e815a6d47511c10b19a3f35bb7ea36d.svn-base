@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\zb-1\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-48e98fd94958b564a7b221c0e2ce1b691f6634ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\zb-1\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\gson-2.3.1-5fcdb3759bfb11333bdd7b76bd1d5a0bb6c69bc7.jar" />
+    </item>
+    <item
+        jar="I:\workspace\CXCourse\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-9cd4ee6af0422e0a18eba9faa4fbc2576d127db1.jar" />
+    </item>
+    <item
+        jar="I:\workspace\CXCourse\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\classes-022b5c81a8ee4cb8844166a886c9d18dec4ebdf7.jar" />
+    </item>
+    <item
+        jar="C:\Users\zb-1\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\5.5.3\5d503ec571e2e98d972209afa203f94d11882c15\analytics-5.5.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5d503ec571e2e98d972209afa203f94d11882c15">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\analytics-5.5.3-f3d452adb6e513811990c4c0b1e0ac5b9c2764e5.jar" />
+    </item>
+    <item
+        jar="I:\workspace\CXCourse\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4c72b7305d9c42d7729d66694dc984f69896a844">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\classes-b7127ba8ddb4c32136579f5d8a82054371d251e6.jar" />
+    </item>
+    <item
+        jar="I:\workspace\CXCourse\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="28df9804d10dcce9235dde6dc95e5ed9eb21f0f0">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\classes-1c925bf3ec5677a7a2ae8990da0398ad07b707e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\zb-1\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.16\d8f5b9114ebe0f76de7fbf55e950540959ce4ff8\library-1.0.16.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d8f5b9114ebe0f76de7fbf55e950540959ce4ff8">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\library-1.0.16-78ba5b24aaea2327bd061948d5eac42199406f6c.jar" />
+    </item>
+    <item
+        jar="I:\workspace\CXCourse\app\build\intermediates\exploded-aar\com.github.ksoichiro\android-observablescrollview\1.5.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="256c2cf84542c459927ed4aa5f99a9b47855c071">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\classes-34c9e374e5d05a24692b1ef0bc7794bd91e7ec4a.jar" />
+    </item>
+    <item
+        jar="I:\workspace\CXCourse\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\classes-2e0ea3b1eb05ec1320c2d0b55a7d113320884fe9.jar" />
+    </item>
+    <item
+        jar="C:\Users\zb-1\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.3.0\1b355f73402020c5a0dcca58affc3ec3dfeabac1\okio-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\okio-1.3.0-cc6f92dd8369392833071ffee7d2bb40d6fd441a.jar" />
+    </item>
+    <item
+        jar="I:\workspace\CXCourse\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cd4a2b0df827bebc39c620c3df0379655adabd8c">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\classes-81493c2b05211c01dfe91fa2693c2203ab1495c3.jar" />
+    </item>
+    <item
+        jar="I:\workspace\CXCourse\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp\0.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cb087e811fdc9a894b316e024fe7169b0fe99263">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\classes-f839fd2a3071d55db7d06849bd269204ae730805.jar" />
+    </item>
+    <item
+        jar="I:\workspace\CXCourse\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2c48f4fa9decc24778e885a147169988d4358b8e">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\classes-baa9cae8879fcca169b06e2a2b8d41ac91f50ada.jar" />
+    </item>
+    <item
+        jar="C:\Users\zb-1\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\library-2.4.0-fab4917bbfee55a326e7014314217ca4543bc243.jar" />
+    </item>
+    <item
+        jar="I:\workspace\CXCourse\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-95a85016a81fb4ab065d2947573e1b850fdfc737.jar" />
+    </item>
+    <item
+        jar="I:\workspace\CXCourse\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\classes-d3888b303cbb7d2ff150c9dbdb300afd49265fc5.jar" />
+    </item>
+    <item
+        jar="I:\workspace\CXCourse\app\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\classes-a50a9313a91437cdf97425c00dfed3eff2057b9f.jar" />
+    </item>
+    <item
+        jar="D:\androidStudio\SDK\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-91445f58711ea8be2ed589e8942f103e42ad0c1b.jar" />
+    </item>
+    <item
+        jar="I:\workspace\CXCourse\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\classes-0d574d4d52c566ec605b8fc5d7a1ec786df44021.jar" />
+    </item>
+    <item
+        jar="C:\Users\zb-1\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.3.0\2e7bc7033dc2c8423e661224171b3133fb155b28\okhttp-2.3.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\okhttp-2.3.0-8a3364bb125bab37de1ba63cf10f0102b010ee5f.jar" />
+    </item>
+    <item
+        jar="I:\workspace\CXCourse\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\classes-3d6d56b7099fe5f5815bd9e815020c58f7cf1f08.jar" />
+    </item>
+    <item
+        jar="I:\workspace\CXCourse\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d2fc5593ddd0c2ae29f4623e13e452c2d88bcad0">
+        <dex dex="I:\workspace\CXCourse\app\build\intermediates\pre-dexed\debug\classes-a3fc1b8aef6821d15103fce0b544c627e4ea385e.jar" />
+    </item>
+
+</items>

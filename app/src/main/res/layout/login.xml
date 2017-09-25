@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+     android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<LinearLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+
+		android:layout_gravity="center_horizontal"
+		android:orientation="vertical">
+		<ImageView
+
+			android:layout_width="80dp"
+			android:layout_height="80dp"
+			android:layout_marginTop="80dp"
+			android:layout_gravity="center"
+			android:src="@drawable/bjss"
+			/>
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="欢迎使用BJSS"
+			android:textColor="#5a89dd"
+			android:layout_gravity="center"
+			android:layout_marginTop="5dp"
+			android:textSize="20dp"/>
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="创新方法学习应用手机客户端软件"
+			android:textSize="10dp"
+
+			android:gravity="center"
+			android:paddingTop="10dp"/>
+	</LinearLayout>
+    <LinearLayout
+		android:layout_marginTop="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+android:layout_gravity="center"
+        >
+		<TextView android:text="帐号" 
+			android:id="@+id/textView1" 
+			android:layout_width="wrap_content"
+			android:textSize="30px"
+			android:layout_height="wrap_content"
+
+			/>
+		<EditText android:id="@+id/editText1" 
+			android:layout_width="300dp"
+			android:layout_height="wrap_content"/>
+		</LinearLayout>
+	<LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+		android:layout_gravity="center"
+		android:layout_marginTop="20dp"
+        >
+		<TextView android:text="密码" 
+			android:id="@+id/textView2" 
+			android:textSize="30px"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"/>
+		<EditText android:layout_height="wrap_content" 
+			android:layout_width="300dp"
+			android:id="@+id/editText2" 
+			android:inputType="textPassword"/>
+		</LinearLayout>
+
+
+
+	<!--<LinearLayout-->
+		<!--android:layout_width="fill_parent"-->
+		<!--android:layout_height="wrap_content"-->
+		<!--android:orientation="horizontal"-->
+		<!--android:gravity="center">-->
+	<!--</LinearLayout>-->
+
+
+		<!--<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="记住密码"
+			android:textSize="40px"
+			android:layout_marginTop="5px"/>-->
+
+		<Button android:text="登录" 
+			android:id="@+id/login" 
+			android:layout_width="250dp"
+			android:layout_gravity="center"
+			android:layout_height="wrap_content"
+			android:background="@drawable/shape"
+			android:layout_marginTop="20dp"
+			android:textColor="#ffffff"
+			/>
+	<TextView
+		android:id="@+id/sign_up"
+		android:text="注册"
+		android:layout_width="match_parent"
+		android:gravity="center"
+		android:autoLink="all"
+		android:layout_marginTop="10dp"
+		android:textSize="15dp"
+		android:layout_height="wrap_content" />
+
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:orientation="horizontal"
+		android:layout_gravity="bottom"
+		android:gravity="center"
+		>
+
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="2016-北京科学学中心"
+			android:layout_gravity="bottom"
+			android:layout_marginLeft="10dp"
+			android:layout_marginBottom="1dp"/>
+	</LinearLayout>
+</LinearLayout>

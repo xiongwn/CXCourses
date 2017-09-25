@@ -1,0 +1,26 @@
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.zhoubiao.cxcourses.NavigationDrawerFragment"
+    android:background="#fff"
+    >
+<ListView 
+    android:id="@+id/navigation_drawer_list"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:choiceMode="singleChoice"
+    android:divider="@null"
+
+   />
+<ListView 
+    android:id="@+id/submenu_list"
+    android:layout_alignParentBottom="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:choiceMode="singleChoice"
+    />
+</RelativeLayout>
+<!-- android:background="@android:style/Animation.Translucent" -->
+
